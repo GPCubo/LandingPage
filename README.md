@@ -34,3 +34,6 @@ sentencia 95:
       (Ir añadiendo o removiendo  las clases declaradas anteriormente  de manera dinamica, si el usuario levanta una tecla o haga un cambio)
 sentencia 100:
       (Son las expresiones regulares que verifican el formulario)
+sentencia 106:
+       (Verifica que el objeto fields tenda todos las propiedades de la sentencia 57, sean true. en caso de que sea true envia formulario a (falta de una dirección
+       para enviar))
